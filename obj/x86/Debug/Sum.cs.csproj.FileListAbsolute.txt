@@ -1,0 +1,4 @@
+C:\Users\EAHSCS\Documents\GitHub\Sum.cs\bin\Debug\Sum.cs.exe
+C:\Users\EAHSCS\Documents\GitHub\Sum.cs\bin\Debug\Sum.cs.pdb
+C:\Users\EAHSCS\Documents\GitHub\Sum.cs\obj\x86\Debug\Sum.cs.exe
+C:\Users\EAHSCS\Documents\GitHub\Sum.cs\obj\x86\Debug\Sum.cs.pdb

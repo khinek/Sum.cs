@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual C# Express 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Sum.cs", "Sum.cs.csproj", "{F313AB22-A3B8-4A12-8E5B-3126BC4D7973}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GetVowel.cs", "..\GetVowel.cs\GetVowel.cs.csproj", "{25B9A47A-3BFB-411E-AFE6-507F080370A3}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F313AB22-A3B8-4A12-8E5B-3126BC4D7973}.Debug|x86.ActiveCfg = Debug|x86
+		{F313AB22-A3B8-4A12-8E5B-3126BC4D7973}.Debug|x86.Build.0 = Debug|x86
+		{F313AB22-A3B8-4A12-8E5B-3126BC4D7973}.Release|x86.ActiveCfg = Release|x86
+		{F313AB22-A3B8-4A12-8E5B-3126BC4D7973}.Release|x86.Build.0 = Release|x86
+		{25B9A47A-3BFB-411E-AFE6-507F080370A3}.Debug|x86.ActiveCfg = Debug|x86
+		{25B9A47A-3BFB-411E-AFE6-507F080370A3}.Debug|x86.Build.0 = Debug|x86
+		{25B9A47A-3BFB-411E-AFE6-507F080370A3}.Release|x86.ActiveCfg = Release|x86
+		{25B9A47A-3BFB-411E-AFE6-507F080370A3}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
