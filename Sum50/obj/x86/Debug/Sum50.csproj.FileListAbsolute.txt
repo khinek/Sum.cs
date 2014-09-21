@@ -1,0 +1,4 @@
+C:\Users\alexadb123\Documents\GitHub\Sum.cs\Sum50\bin\Debug\Sum50.exe
+C:\Users\alexadb123\Documents\GitHub\Sum.cs\Sum50\bin\Debug\Sum50.pdb
+C:\Users\alexadb123\Documents\GitHub\Sum.cs\Sum50\obj\x86\Debug\Sum50.exe
+C:\Users\alexadb123\Documents\GitHub\Sum.cs\Sum50\obj\x86\Debug\Sum50.pdb

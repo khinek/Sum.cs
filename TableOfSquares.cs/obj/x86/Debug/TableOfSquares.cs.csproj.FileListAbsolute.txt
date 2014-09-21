@@ -1,0 +1,4 @@
+C:\Users\alexadb123\Documents\GitHub\Sum.cs\TableOfSquares.cs\bin\Debug\TableOfSquares.cs.exe
+C:\Users\alexadb123\Documents\GitHub\Sum.cs\TableOfSquares.cs\bin\Debug\TableOfSquares.cs.pdb
+C:\Users\alexadb123\Documents\GitHub\Sum.cs\TableOfSquares.cs\obj\x86\Debug\TableOfSquares.cs.exe
+C:\Users\alexadb123\Documents\GitHub\Sum.cs\TableOfSquares.cs\obj\x86\Debug\TableOfSquares.cs.pdb
