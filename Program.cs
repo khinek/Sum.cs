@@ -10,13 +10,13 @@ namespace Sum.cs
         static void Main(string[] args)
         {
             Console.WriteLine("Enter any integer number from 0 to 999");
-            int total = 0;
+            int total = 0; 
             while (true)
             {
                 int I = Convert.ToInt32(Console.ReadLine());
                 total += I;
                 Console.WriteLine("The total is " + total);
-                if (total >= 999)
+                if (I>= 999)
                     break;
             }
                 

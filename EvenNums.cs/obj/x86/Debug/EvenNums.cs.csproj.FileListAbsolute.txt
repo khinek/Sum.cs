@@ -2,3 +2,7 @@ C:\Users\alexadb123\Documents\GitHub\Sum.cs\EvenNums.cs\bin\Debug\EvenNums.cs.ex
 C:\Users\alexadb123\Documents\GitHub\Sum.cs\EvenNums.cs\bin\Debug\EvenNums.cs.pdb
 C:\Users\alexadb123\Documents\GitHub\Sum.cs\EvenNums.cs\obj\x86\Debug\EvenNums.cs.exe
 C:\Users\alexadb123\Documents\GitHub\Sum.cs\EvenNums.cs\obj\x86\Debug\EvenNums.cs.pdb
+C:\Users\EAHSCS\Documents\GitHub\Sum.cs\EvenNums.cs\bin\Debug\EvenNums.cs.exe
+C:\Users\EAHSCS\Documents\GitHub\Sum.cs\EvenNums.cs\bin\Debug\EvenNums.cs.pdb
+C:\Users\EAHSCS\Documents\GitHub\Sum.cs\EvenNums.cs\obj\x86\Debug\EvenNums.cs.exe
+C:\Users\EAHSCS\Documents\GitHub\Sum.cs\EvenNums.cs\obj\x86\Debug\EvenNums.cs.pdb

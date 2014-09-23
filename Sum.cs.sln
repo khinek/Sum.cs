@@ -3,8 +3,6 @@ Microsoft Visual Studio Solution File, Format Version 11.00
 # Visual C# Express 2010
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Sum.cs", "Sum.cs.csproj", "{F313AB22-A3B8-4A12-8E5B-3126BC4D7973}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GetVowel.cs", "..\GetVowel.cs\GetVowel.cs.csproj", "{0777EE4C-1048-4840-96F7-FF8CD352AA7A}"
-EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MultiplicationTable.cs", "MultiplicationTable.cs\MultiplicationTable.cs.csproj", "{796D4D1C-265E-4390-87C3-B17D8273E265}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EvenNums.cs", "EvenNums.cs\EvenNums.cs.csproj", "{CDAA0350-D78B-4B10-B0CC-114CB15F557A}"
@@ -25,10 +23,6 @@ Global
 		{F313AB22-A3B8-4A12-8E5B-3126BC4D7973}.Debug|x86.Build.0 = Debug|x86
 		{F313AB22-A3B8-4A12-8E5B-3126BC4D7973}.Release|x86.ActiveCfg = Release|x86
 		{F313AB22-A3B8-4A12-8E5B-3126BC4D7973}.Release|x86.Build.0 = Release|x86
-		{0777EE4C-1048-4840-96F7-FF8CD352AA7A}.Debug|x86.ActiveCfg = Debug|x86
-		{0777EE4C-1048-4840-96F7-FF8CD352AA7A}.Debug|x86.Build.0 = Debug|x86
-		{0777EE4C-1048-4840-96F7-FF8CD352AA7A}.Release|x86.ActiveCfg = Release|x86
-		{0777EE4C-1048-4840-96F7-FF8CD352AA7A}.Release|x86.Build.0 = Release|x86
 		{796D4D1C-265E-4390-87C3-B17D8273E265}.Debug|x86.ActiveCfg = Debug|x86
 		{796D4D1C-265E-4390-87C3-B17D8273E265}.Debug|x86.Build.0 = Debug|x86
 		{796D4D1C-265E-4390-87C3-B17D8273E265}.Release|x86.ActiveCfg = Release|x86

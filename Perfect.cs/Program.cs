@@ -7,7 +7,7 @@ namespace Perfect.cs
 {
     class Program
     {
-        static void Main(string[] args)
+        static void Main(String[] args)
         {
             int number = 1;
             int counter;

@@ -4,3 +4,4 @@ C:\Users\EAHSCS\Documents\GitHub\Sum.cs\obj\x86\Debug\Sum.cs.exe
 C:\Users\EAHSCS\Documents\GitHub\Sum.cs\obj\x86\Debug\Sum.cs.pdb
 C:\Users\alexadb123\Documents\GitHub\Sum.cs\obj\x86\Debug\Sum.cs.exe
 C:\Users\alexadb123\Documents\GitHub\Sum.cs\obj\x86\Debug\Sum.cs.pdb
+C:\Users\EAHSCS\Documents\GitHub\Sum.cs\obj\x86\Debug\Sum.cs.csprojResolveAssemblyReference.cache

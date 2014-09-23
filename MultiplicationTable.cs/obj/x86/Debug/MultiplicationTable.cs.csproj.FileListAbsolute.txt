@@ -2,3 +2,7 @@ C:\Users\alexadb123\Documents\GitHub\Sum.cs\MultiplicationTable.cs\bin\Debug\Mul
 C:\Users\alexadb123\Documents\GitHub\Sum.cs\MultiplicationTable.cs\bin\Debug\MultiplicationTable.cs.pdb
 C:\Users\alexadb123\Documents\GitHub\Sum.cs\MultiplicationTable.cs\obj\x86\Debug\MultiplicationTable.cs.exe
 C:\Users\alexadb123\Documents\GitHub\Sum.cs\MultiplicationTable.cs\obj\x86\Debug\MultiplicationTable.cs.pdb
+C:\Users\EAHSCS\Documents\GitHub\Sum.cs\MultiplicationTable.cs\bin\Debug\MultiplicationTable.cs.exe
+C:\Users\EAHSCS\Documents\GitHub\Sum.cs\MultiplicationTable.cs\bin\Debug\MultiplicationTable.cs.pdb
+C:\Users\EAHSCS\Documents\GitHub\Sum.cs\MultiplicationTable.cs\obj\x86\Debug\MultiplicationTable.cs.exe
+C:\Users\EAHSCS\Documents\GitHub\Sum.cs\MultiplicationTable.cs\obj\x86\Debug\MultiplicationTable.cs.pdb

@@ -2,3 +2,7 @@ C:\Users\alexadb123\Documents\GitHub\Sum.cs\Perfect.cs\bin\Debug\Perfect.cs.exe
 C:\Users\alexadb123\Documents\GitHub\Sum.cs\Perfect.cs\bin\Debug\Perfect.cs.pdb
 C:\Users\alexadb123\Documents\GitHub\Sum.cs\Perfect.cs\obj\x86\Debug\Perfect.cs.exe
 C:\Users\alexadb123\Documents\GitHub\Sum.cs\Perfect.cs\obj\x86\Debug\Perfect.cs.pdb
+C:\Users\EAHSCS\Documents\GitHub\Sum.cs\Perfect.cs\obj\x86\Debug\Perfect.cs.exe
+C:\Users\EAHSCS\Documents\GitHub\Sum.cs\Perfect.cs\obj\x86\Debug\Perfect.cs.pdb
+C:\Users\EAHSCS\Documents\GitHub\Sum.cs\Perfect.cs\bin\Debug\Perfect.cs.exe
+C:\Users\EAHSCS\Documents\GitHub\Sum.cs\Perfect.cs\bin\Debug\Perfect.cs.pdb
